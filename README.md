@@ -3,6 +3,7 @@ Notes on control system
 
 ## PNAS 2019: Data-driven discovery of coordinates and governing equations
 An interesting paper that uses DNN-Autoencoder to find the intrinsic vector (non-linear dimension rotation) for system identification (SinDy). 
+Approach: Joint optimisation. 
 
 Video Link: https://www.youtube.com/watch?v=WHhDgxkiR9c
 
