@@ -10,3 +10,5 @@ Video Link: https://www.youtube.com/watch?v=WHhDgxkiR9c
 Idea1: The autoencoder can be realised at the edge while the system identification can be realised at the cloud. 
 
 Idea2: Maybe it can be extended to support multi-agent cases? 
+
+Idea3: Use it on speech synthesis with GAN to guarantee speech quality.
