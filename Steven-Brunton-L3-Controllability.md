@@ -7,7 +7,7 @@
 如果输入矩阵$\mathbf{B}$选取正确，则对于一个线性系统来说，它总是可控的。
 
 
-![](./control-system-ge-arch.png)
+![](./Steven-Brunton-L3-Image/control-system-ge-arch.png)
 
 
 举例来说：

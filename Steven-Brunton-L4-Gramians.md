@@ -38,7 +38,7 @@ Here the eigenvalue $\lambda$ of $W_t$ is the square of the singular value $\Sig
 
 An example is given the following figure $\xi_1$ is the direction (eigen-state) that can be easiest controlled while $\xi_2$ is the the most difficult eigen-state to be controlled.
 
-![](./ellipsoid.png)
+![](./Steven-Brunton-L4-Image/ellipsoid.png)
 
 Given a finit energy, the controllability can It can move along the edge of this ellipse, and the distance from the point to the origin refers to the degree of controllability.
 
